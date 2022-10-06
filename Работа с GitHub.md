@@ -4,7 +4,7 @@
 <h2>Работа над своим Issue</h2>
 Чтобы приступить к работе над своим issue, для начала нужно создать ветку под этот конкретный issue. Делается это очень просто:
 
-![](https://github.com/Fractal-Web/Fractal-Web-Documentations/blob/84e165a78a3caf82cd975332efae2aefa4ea859a/Media/Work_with_GitHub/image_20221006183922.png)
+![](https://github.com/Fractal-Web/Fractal-Web-Documentations/blob/cad9e0a175b08a908fbe9ed222491e712af3e676/Media/Work_with_GitHub/image_20221006183922.png)
 ![[image_20221006183922.png]]
 
 Вот этой волшебной кнопочкой. После этого меняем название на более подходящее и выбираем родительскую ветку (в большинстве случае это main, но иногда может называться development):
