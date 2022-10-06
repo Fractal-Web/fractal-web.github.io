@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Работа с GitHub.md",
+            "file": "Правила по форматированию кода.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с GitHub.md",
+                "file": "Правила по форматированию кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,9 +94,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с GitHub.md",
+                "file": "Правила по форматированию кода.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -117,20 +117,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с GitHub.md"
+                "file": "Правила по форматированию кода.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "018349f6993073c0",
   "lastOpenFiles": [
-    "2022-10-06.md",
-    "Работа с GitHub.md"
+    "Работа с GitHub.md",
+    "Media/Work_with_GitHub/Pasted image 20221006183922.png",
+    "Media/Work_with_GitHub/Code_uLwHa7A9cC.gif",
+    "Media/Work_with_GitHub/brave_L4uTtm8nhF.gif",
+    "Media/Work_with_GitHub/brave_2zEZTLfCZ9.gif",
+    "Media/Formatting code rules/Code_c9f0AmdjuT.png",
+    "Media/Formatting code rules/vvJqaN20Wr.gif",
+    "Правила по форматированию кода.md",
+    "2022-10-06.md"
   ]
 }
