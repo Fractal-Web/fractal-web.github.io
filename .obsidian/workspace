@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Правила по форматированию кода.md",
+            "file": "Работа с GitHub.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Правила по форматированию кода.md",
+                "file": "Работа с GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Правила по форматированию кода.md",
+                "file": "Работа с GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Правила по форматированию кода.md"
+                "file": "Работа с GitHub.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "018349f6993073c0",
   "lastOpenFiles": [
+    "Правила по форматированию кода.md",
+    "Pasted image 20221006183922.png.md",
     "Работа с GitHub.md",
     "Media/Work_with_GitHub/Pasted image 20221006183922.png",
     "Media/Work_with_GitHub/Code_uLwHa7A9cC.gif",
@@ -137,7 +139,6 @@
     "Media/Work_with_GitHub/brave_2zEZTLfCZ9.gif",
     "Media/Formatting code rules/Code_c9f0AmdjuT.png",
     "Media/Formatting code rules/vvJqaN20Wr.gif",
-    "Правила по форматированию кода.md",
     "2022-10-06.md"
   ]
 }
