@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "c3e459e32fb0363f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c5c8327d41750d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "018349f6993073c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general_rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d619d1b96068009a",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e10025f83dfef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0c17c2addf76a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f9bd83b41e1ff40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ad624177fb3056",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "711492e8a4862a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e4a82fa2fdfb47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b39469c3b11cd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "general_rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeb5ffae478855ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "general_rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "08caf3bc14d5f4e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b44f27226f3c5082",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "general_rules.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "018349f6993073c0",
+  "lastOpenFiles": [
+    "react_setup.md",
+    "README.md",
+    "synonyms_dictionary.md",
+    "code_formatting.md",
+    "Создание нового React проекта.md",
+    "Работа с GitHub.md",
+    "Правила по форматированию кода.md",
+    "Pasted image 20221006183922.png.md",
+    "Media/Work_with_GitHub/Pasted image 20221006183922.png",
+    "Media/Work_with_GitHub/Code_uLwHa7A9cC.gif"
+  ]
+}
