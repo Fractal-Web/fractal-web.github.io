@@ -202,7 +202,7 @@ public class userController : Controller
 [HttpPost("create")]
 public async Task<IActionResult> CreateUser(User user)
 {
-	_db.Requests.Add(request);
+	_db.Users.Add(user);
 	await _db.SaveChangesAsync();
 
 	return Ok();
