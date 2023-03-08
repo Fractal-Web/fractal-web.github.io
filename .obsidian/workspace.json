@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setup_asp_net_core_mvc_app.md",
+                "file": "code_formatting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setup_asp_net_core_mvc_app.md",
+                "file": "code_formatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setup_asp_net_core_mvc_app.md",
+                "file": "code_formatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setup_asp_net_core_mvc_app.md"
+                "file": "code_formatting.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "59cb2346a25f67b4",
   "lastOpenFiles": [
+    "react_setup.md",
+    "setup_asp_net_core_mvc_app.md",
     "index.md",
     "assets/style/style.css",
     "assets/style",
     "assets",
     "_layout/default.html",
     "_layout",
-    "setup_asp_net_core_mvc_app.md",
     "general_rules.md",
-    "react_setup.md",
     "README.md",
     "code_formatting.md",
     "synonyms_dictionary.md",
