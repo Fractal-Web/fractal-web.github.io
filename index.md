@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: ru-RU
-title: Московский клуб программистов
+title: Fractal Documentations
 ---
 
 * [Правила по форматированию кода](./code_formatting.md)
