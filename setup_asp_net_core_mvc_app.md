@@ -95,6 +95,18 @@ public class User
 }
 ```
 
+Когда все модели будут готовы, мы можем обновить базу данных, чтобы она создала все нужные таблицы. Для этого нам сначала потребуется установить пакет `Microsoft.EntityFrameworkCore.Design` и после чего создать миграционный файл командой в консоли
+
+```bash
+dotnet ef migrations add {имя-апдейта}
+```
+
+и произвести саму миграцию
+
+```bash
+dotnet ef database update
+```
+
 <h2>Создаём контекст базы данных.</h2> 
 Создаём в корневой папке (обычно не выделял под контексты отдельную папку, но если есть желание - можете выделить) файл `DatabaseContext.cs`.
 Для контекста нам понадобится обязательно библиотека `Micrisoft.EntityFrameworkCore` из которой мы возьмём экземпляр `DbContext`.
@@ -155,12 +167,12 @@ builder.Services.AddDbContext<DatabaseContext>(
 
 `UserController.cs`
 ```cs
-public class UserController : Controller
+public class userController : Controller
 {
-    private readonly ILogger<UserController> _logger;
+    private readonly ILogger<userController> _logger;
     private readonly AdminPanelContext _db;
 
-    public UserController(ILogger<UserController> logger, AdminPanelContext db)
+    public userController(ILogger<userController> logger, AdminPanelContext db)
     {
         _logger = logger;
         _db = db;
@@ -186,7 +198,7 @@ public class userController : Controller
 
 `UserController.cs`
 ```cs
-[HttpPost("createUser")]
+[HttpPost("create")]
 public async Task<IActionResult> CreateUser(User user)
 {
 	_db.Requests.Add(request);
@@ -211,7 +223,7 @@ https://{адрес-сервера}/{имя-контроллера}/{имя-ро
 В нашем случае
 
 ```
-https://localhost:5172/user/createUser
+https://localhost:5172/user/create
 ```
 
 И прикрепляем к нему в body блок Json кода по нашей модели:
