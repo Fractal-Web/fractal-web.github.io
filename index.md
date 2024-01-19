@@ -9,3 +9,4 @@ title: Fractal Documentations
 * [Создание нового React приложения](./react_setup.md)
 * [Словарь синонимов](./synonyms_dictionary.md)
 * [Подготовка проекта на ASP.NET MVC](./setup_asp_net_core_mvc_app.md)
+* [Как поднять Strapi CMS](./strapi-cms-deployment.md)
