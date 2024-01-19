@@ -1,3 +1,5 @@
+# Как поднять Strapi CMS
+
 #### Источники:
 - https://docs.strapi.io/dev-docs/deployment/digitalocean
 - https://docs.digitalocean.com/developer-center/deploying-a-next.js-application-on-a-digitalocean-droplet/
