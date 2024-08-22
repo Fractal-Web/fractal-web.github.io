@@ -69,7 +69,7 @@ Shall the new role be a superuser? (y/n) y
 Создаем таблицу
 
 ```bash
-createdb sammy
+createdb strapi
 ```
 
 Заходим в postgres (`psql`), и меняем пароль пользователя.
